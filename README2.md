@@ -1,7 +1,7 @@
 ## EJERCICIOS DE RESOLUCIÓN DE CONFLICTOS
 
 ### 1. 
-### 1.1_ Creamos un repo remoto y le añadimos un README.md, le añadimos el contenido proporcionado. 
+### 1.1_ Creamos un repo remoto y le añadimos un README.md con el contenido proporcionado. 
 ### 1.2_ En nuestro host clonamos el repo proporcionado con `git clone url`
 
     - En el remoto modificamos el nombre y la fecha por nuestro nombre y la fecha actual.
