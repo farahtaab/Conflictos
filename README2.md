@@ -16,8 +16,9 @@
     - Git no puede resolver esto por lo tanto nos deja la responsabilidad a nosotros como programadores de escoger la version con la que nos queremos quedar.
    
 ![pull](imagenes/tres.png)
-![respo](imagenes/cinco.png)
+![resp](imagenes/cuatro.png)
 
 ### 4. Existe la posibilidad de ver los combios con git diff de la manera siguiente:
 
-![diff](imagenes/cuatro.png)
+![diff](imagenes/cinco.png)
+
